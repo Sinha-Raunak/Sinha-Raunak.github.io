@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Sinha | </title>
+    <link>http://sinha-raunak.github.io/authors/r.-sinha/</link>
+      <atom:link href="http://sinha-raunak.github.io/authors/r.-sinha/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Sinha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 19:09:32 +0530</lastBuildDate>
+    <image>
+      <url>http://sinha-raunak.github.io/img/icon-192.png</url>
+      <title>R. Sinha</title>
+      <link>http://sinha-raunak.github.io/authors/r.-sinha/</link>
+    </image>
+    
+    <item>
+      <title>AuthorGAN: Improving GAN Reproducibility using a Modular GAN Framework</title>
+      <link>http://sinha-raunak.github.io/publication/authorgan/</link>
+      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/publication/authorgan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>http://sinha-raunak.github.io/authors/</link>
+      <atom:link href="http://sinha-raunak.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 19:09:32 +0530</lastBuildDate>
+    <image>
+      <url>http://sinha-raunak.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://sinha-raunak.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>A. Sankaran</title>
+      <link>http://sinha-raunak.github.io/authors/a.-sankaran/</link>
+      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/a.-sankaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Vatsa</title>
+      <link>http://sinha-raunak.github.io/authors/m.-vatsa/</link>
+      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/m.-vatsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Singh</title>
+      <link>http://sinha-raunak.github.io/authors/r.-singh/</link>
+      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/r.-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Sinha</title>
+      <link>http://sinha-raunak.github.io/authors/r.-sinha/</link>
+      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/r.-sinha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://sinha-raunak.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hey! I am an engineer working on understanding programming language semantics using Artificial Intelligence and Machine Learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
