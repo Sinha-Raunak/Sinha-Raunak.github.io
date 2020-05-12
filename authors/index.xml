@@ -49,8 +49,9 @@
       <link>http://sinha-raunak.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://sinha-raunak.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hey! I am an engineer working on understanding programming language semantics using machine learning and natural language processing. I am keen on relating code semantics to human-understandable (natural) language semantics.&lt;/p&gt;
-&lt;p&gt;I am interested in developing learning theory for computational sustainability, computer vision and natural language understanding.&lt;/p&gt;
+      <description>&lt;p&gt;I am an ardent researcher interested in exploring and developing machine learning for computer vision, computational sustainability, and natural language understanding.&lt;/p&gt;
+&lt;p&gt;I am currently working on utilizing machine learning to jointly understand the semantics of programming languages and natural languages, making it easy to comprehend code. I am also working on recommending microservice partitions for a given piece of code for application modernization.&lt;/p&gt;
+&lt;p&gt;Previously I have worked on using machine learning to capture facial features to generate images of family members. I have also developed an open-source toolkit for freely experimenting and interacting with Generative Adversarial Networks in a code-less fashion.&lt;/p&gt;
 </description>
     </item>
     
