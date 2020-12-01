@@ -5,7 +5,7 @@
     <link>http://sinha-raunak.github.io/authors/</link>
       <atom:link href="http://sinha-raunak.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 19:09:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 23:28:04 +0530</lastBuildDate>
     <image>
       <url>http://sinha-raunak.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>A. Sankaran</title>
-      <link>http://sinha-raunak.github.io/authors/a.-sankaran/</link>
-      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
-      <guid>http://sinha-raunak.github.io/authors/a.-sankaran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Vatsa</title>
       <link>http://sinha-raunak.github.io/authors/m.-vatsa/</link>
-      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <pubDate>Tue, 01 Dec 2020 23:28:04 +0530</pubDate>
       <guid>http://sinha-raunak.github.io/authors/m.-vatsa/</guid>
       <description></description>
     </item>
@@ -31,7 +23,7 @@
     <item>
       <title>R. Singh</title>
       <link>http://sinha-raunak.github.io/authors/r.-singh/</link>
-      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <pubDate>Tue, 01 Dec 2020 23:28:04 +0530</pubDate>
       <guid>http://sinha-raunak.github.io/authors/r.-singh/</guid>
       <description></description>
     </item>
@@ -39,8 +31,40 @@
     <item>
       <title>R. Sinha</title>
       <link>http://sinha-raunak.github.io/authors/r.-sinha/</link>
-      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <pubDate>Tue, 01 Dec 2020 23:28:04 +0530</pubDate>
       <guid>http://sinha-raunak.github.io/authors/r.-sinha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Mani</title>
+      <link>http://sinha-raunak.github.io/authors/s.-mani/</link>
+      <pubDate>Sun, 01 Nov 2020 23:37:06 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/s.-mani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Tamilselvam</title>
+      <link>http://sinha-raunak.github.io/authors/s.-tamilselvam/</link>
+      <pubDate>Sun, 01 Nov 2020 23:37:06 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/s.-tamilselvam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Desai</title>
+      <link>http://sinha-raunak.github.io/authors/u.-desai/</link>
+      <pubDate>Sun, 01 Nov 2020 23:37:06 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/u.-desai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Sankaran</title>
+      <link>http://sinha-raunak.github.io/authors/a.-sankaran/</link>
+      <pubDate>Fri, 04 Oct 2019 19:09:32 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/authors/a.-sankaran/</guid>
       <description></description>
     </item>
     

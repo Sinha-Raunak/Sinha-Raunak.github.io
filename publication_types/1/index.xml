@@ -5,12 +5,20 @@
     <link>http://sinha-raunak.github.io/publication_types/1/</link>
       <atom:link href="http://sinha-raunak.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 19:09:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 23:28:04 +0530</lastBuildDate>
     <image>
       <url>http://sinha-raunak.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>http://sinha-raunak.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>FamilyGAN: Generating Kin Face Images using Generative Adversarial Networks, ECCV 2020 Workshop</title>
+      <link>http://sinha-raunak.github.io/publication/familygan/</link>
+      <pubDate>Tue, 01 Dec 2020 23:28:04 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/publication/familygan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AuthorGAN: Improving GAN Reproducibility using a Modular GAN Framework, NeurIPS 2019</title>

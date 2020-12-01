@@ -5,12 +5,36 @@
     <link>http://sinha-raunak.github.io/publication/</link>
       <atom:link href="http://sinha-raunak.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 19:09:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 23:28:04 +0530</lastBuildDate>
     <image>
       <url>http://sinha-raunak.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>http://sinha-raunak.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>FamilyGAN: Generating Kin Face Images using Generative Adversarial Networks, ECCV 2020 Workshop</title>
+      <link>http://sinha-raunak.github.io/publication/familygan/</link>
+      <pubDate>Tue, 01 Dec 2020 23:28:04 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/publication/familygan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Siamese Networks for Semantic Code Search, Preprint 2020</title>
+      <link>http://sinha-raunak.github.io/publication/codesearch/</link>
+      <pubDate>Sun, 01 Nov 2020 23:37:06 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/publication/codesearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization For Splitting An Application Into Modules (USPTO patent pending, 2020)</title>
+      <link>http://sinha-raunak.github.io/publication/patent1/</link>
+      <pubDate>Thu, 15 Oct 2020 23:42:43 +0530</pubDate>
+      <guid>http://sinha-raunak.github.io/publication/patent1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AuthorGAN: Improving GAN Reproducibility using a Modular GAN Framework, NeurIPS 2019</title>
